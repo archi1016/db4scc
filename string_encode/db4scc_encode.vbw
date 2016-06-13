@@ -1,0 +1,15 @@
+MainForm = 165, 351, 1164, 865, , 176, 47, 1175, 686, C
+api = 0, 0, 0, 0, C
+api_crypt = 0, 0, 0, 0, C
+api_file = 0, 0, 0, 0, C
+api_reg = 0, 0, 0, 0, C
+api_shell32 = 0, 0, 0, 0, C
+api_socket = 0, 0, 0, 0, C
+api_window = 0, 0, 0, 0, C
+define = 132, 174, 1097, 688, C
+define_type = 154, 203, 1119, 717, C
+func = 154, 203, 1119, 717, 
+func_crypt = 0, 0, 0, 0, C
+func_ini_decode = 0, 0, 965, 514, 
+func_ini_encode = 176, 232, 1141, 746, 
+func_xml = 0, 0, 0, 0, C

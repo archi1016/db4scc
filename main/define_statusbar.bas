@@ -1,0 +1,27 @@
+Attribute VB_Name = "define_statusbar"
+Option Explicit
+
+Public Const STATUSCLASSNAME = "msctls_statusbar32"
+
+Public Const SBARS_SIZEGRIP = &H100
+Public Const SBARS_TOOLTIPS = &H800
+
+Public Const SB_SETTEXTW = WM_USER + 11
+Public Const SB_GETTEXTW = WM_USER + 13
+Public Const SB_GETTEXTLENGTHW = WM_USER + 12
+Public Const SB_SETPARTS = WM_USER + 4
+Public Const SB_SETBORDERS = WM_USER + 5
+Public Const SB_GETPARTS = WM_USER + 6
+Public Const SB_GETBORDERS = WM_USER + 7
+Public Const SB_SETMINHEIGHT = WM_USER + 8
+Public Const SB_SIMPLE = WM_USER + 9
+Public Const SB_GETRECT = WM_USER + 10
+Public Const SB_ISSIMPLE = WM_USER + 14
+Public Const SB_SETICON = WM_USER + 15
+Public Const SB_SETTIPTEXTW = WM_USER + 17
+Public Const SB_GETTIPTEXTW = WM_USER + 19
+Public Const SB_GETICON = WM_USER + 20
+Public Const SB_SETBKCOLOR = CCM_SETBKCOLOR
+Public Const SB_GETUNICODEFORMAT = CCM_GETUNICODEFORMAT
+Public Const SB_SETUNICODEFORMAT = CCM_SETUNICODEFORMAT
+
